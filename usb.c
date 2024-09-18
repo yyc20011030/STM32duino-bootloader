@@ -34,6 +34,7 @@
 #include "dfu.h"
 
 
+
 extern u8 u8_usbConfigDescriptorDFU[];
 extern u8 u8_usbFunctionalDescriptor[];
 

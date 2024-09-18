@@ -2,7 +2,6 @@
 
 请注意：此代码不适用于所有 STM32F103 主板
 
-Also Note: Use GCC 4.8 (not 4.9 or newer, as those versions have more aggressive optimisation which cause hardware registers to be read incorrectly and consequently the bootloader does not work)
 另请注意：请使用 GCC 4.8（不要使用 4.9 或更新版本，因为这些版本具有更强的优化功能，会导致硬件寄存器读取错误，从而导致引导加载程序无法工作）
 
 
